@@ -1,3 +1,3 @@
 # hello-world
 
-# just the github getting started guide
+just the github getting started guide
